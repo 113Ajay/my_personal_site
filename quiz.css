@@ -134,16 +134,24 @@ input[type='button']:hover
 {
 	background: #006080;
 }
-@media(max-width: 720px)
+@media(max-width: 768px)
 {
 	.container
 	{
-		width: 25rem;
-	    height: 25rem;
+		width: 80%;
+	    height: 25%;
 	}
 	.score
 	{
-		width: 25rem;
-	    height: 25rem;
+		width: 20rem;
+	    height: 20rem;
+	}
+	.option button
+	{
+		width: 17rem;
+	}
+	#submit_btn
+	{
+		width: 17rem;
 	}
 }
