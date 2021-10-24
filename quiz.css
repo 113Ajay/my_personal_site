@@ -156,7 +156,6 @@ input[type='button']:hover
 	}
 	.container #question .q_txt
 	{
-		font-size: .70rem;
-		color: red;
+		font-size: .80rem;
 	}
 }
