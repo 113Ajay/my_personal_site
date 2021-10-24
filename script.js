@@ -34,7 +34,7 @@
 	    	ans:"d) block that combines multiple statements into a single compound statement"
 	    },
 	    {
-	    	que:" Which character in JavaScript code will be interpreted as XML markup?",
+	    	que:" Which character in Js code will be interpreted as XML markup?",
 	    	a:"a) !",
 	    	b:"b) >",
 	    	c:"c) &",
